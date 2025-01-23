@@ -1,0 +1,2 @@
+# Super_Store_Sales_PowerBI_Dashboard
+A superstore sales dashboard that provides actionable insights into sales performance. The dashboard will focus on analyzing key metrics such as total sales, total orders, profit margins, Average delivery day. By identifying trends, patterns, and areas of improvement, the dashboard will empower decision-makers to work on insights to boost overall profitability.
